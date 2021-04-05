@@ -1,0 +1,15 @@
+Fylrobot commands for CollabVM:
+
+!help - Help.
+!nousername - removes your username and fills it with ( )
+!spam - Spams a phrase in collabvm chat.
+!rapidname - Changes name to numbers.
+!custommessage - Makes Axcelubot say a custom message.
+!screenshot - Takes screenshot of VM.
+!turnspam - Spams turn.
+!disconnect - Reloads page and disconnects.
+!record - Record VM screen.
+!customscript - Add a script from a URL.
+!darkmode - Adds dark mode to your screen. (made by kekero on CollabVM.)
+!autotype - Autotypes a phrase inside the VM.
+!voteyes/voteno - Votes in a VM reset for you.
